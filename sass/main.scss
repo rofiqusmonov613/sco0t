@@ -1,3 +1,4 @@
+@import  "./fonts";
 @import "abstracts/variables";
 @import "abstracts/mixins";
 
@@ -23,7 +24,6 @@
 @import "pages/careers";
 .container{
     width: 1440px;
-    border: 0px 0px 5px 5px;
     margin-right: auto;
     margin-left: auto;
 }
